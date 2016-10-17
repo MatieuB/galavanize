@@ -1,0 +1,15 @@
+h1 {
+  color: red;
+}
+
+.square {
+  width: 400px;
+  height: 400px;
+  background-color: green;
+}
+
+.blue_square {
+  width: 500px;
+  height: 500px;
+  background-color: blue;
+}
